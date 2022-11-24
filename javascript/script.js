@@ -9,3 +9,5 @@ let somma = nome + cognome + colore + numero;
 
 document.getElementById("psw").innerHTML = `la tua pasword è ${somma}`;
 console.log(`la tua pasword è ${somma}`)
+
+
